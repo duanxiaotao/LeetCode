@@ -3,6 +3,7 @@ package com.leetcode.duan;
 import java.util.Arrays;
 
 public class Rotate {
+    //翻转
     public static void main(String[] args) {
         int[] nums = new int[] {1,2,3,4,5,6,7};
         rotate(nums, 10);
